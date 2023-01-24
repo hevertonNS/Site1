@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2? família= Bebas+Neue &família= Advertência:wght@600 &family= Explora & family= Lobster & family= Righteous & display=swap');
+
+
+
+body {
+display: flex;
+justify-content: center;
+background-color: rgb(22, 77, 228);
+}
+
+
+
+.container {
+    background-color: rgb(199, 223, 252);
+    color: rgb(106, 168, 238);
+    border-radius: 2%;
+    width: 900px;
+    height: 500px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    top: 300px;
+    margin-top: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container img {
+    width: 300px;
+    padding: 20px;
+
+}
+
+.desc{
+    display: flex;
+    align-items: center;
+    color: rgb(9, 143, 9);
+    text-align: center;
+}
+
+.desc img{
+    width: 20px;
+   
+}
+
+h1{
+    color: rgb(1, 5, 255) ;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+
+.disco img {
+    width: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  
+}
+.disco {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgb(106, 168, 238);
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: blue;
+}
+
+h3 {
+font-family: unset;
+font-size: 50px;
+text-align: center;
+color: blue;
+}
